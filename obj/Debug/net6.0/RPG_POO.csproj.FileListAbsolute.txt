@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\RPG_POO.exe
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\RPG_POO.deps.json
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\RPG_POO.runtimeconfig.json
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\RPG_POO.dll
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\ref\RPG_POO.dll
+C:\Users\gabri\Desktop\Projetos\RPG_POO\bin\Debug\net6.0\RPG_POO.pdb
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.dll
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\ref\RPG_POO.dll
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.pdb
+C:\Users\gabri\Desktop\Projetos\RPG_POO\obj\Debug\net6.0\RPG_POO.genruntimeconfig.cache
